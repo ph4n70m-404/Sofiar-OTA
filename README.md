@@ -12,6 +12,6 @@ Be sure to include the name of the rom you are reporting an issue for
 [vendor_motorola_sofiar](https://github.com/ph4n70m-404/vendor_motorola_sofiar)  
 
 # Rom Downloads
-[Spark OS](https://www.androidfilehost.com/?w=files&flid=328577)
-[Havoc OS](https://www.androidfilehost.com/?w=files&flid=328637)
-[Lineage OS](https://www.androidfilehost.com/?w=files&flid=328626)
+[Spark OS](https://www.androidfilehost.com/?w=files&flid=328577)  
+[Havoc OS](https://www.androidfilehost.com/?w=files&flid=328637)  
+[Lineage OS](https://www.androidfilehost.com/?w=files&flid=328626)  
