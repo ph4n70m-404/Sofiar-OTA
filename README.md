@@ -1,9 +1,10 @@
 # Sofiar-OTA
-This repository contains update json files for supported roms I build for Sofiar  
-This repository will be used for general information on the roms I build for Sofiar
+This repository contains update json files for supported roms I build for Sofiar.  
+This repository will be used for general information on the roms I build for Sofiar.
 
 # Reporting Issues
-Be sure to include the name of the rom you are reporting an issue for
+You can report issues [here](https://github.com/ph4n70m-404/Sofiar-OTA/issues).  
+Be sure to include the name of the rom you are reporting an issue for.
 
 # Sofiar Trees
 **Device Tree:**  
