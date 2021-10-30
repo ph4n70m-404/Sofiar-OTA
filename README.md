@@ -19,3 +19,5 @@ Be sure to include the name of the rom you are reporting an issue for.
 [Spark OS](https://www.androidfilehost.com/?w=files&flid=328577)  
 [Havoc OS](https://www.androidfilehost.com/?w=files&flid=328637)  
 [Lineage OS](https://www.androidfilehost.com/?w=files&flid=328626)  
+[Miscellaneous Builds](https://androidfilehost.com/?w=files&flid=329294)  
+
