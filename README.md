@@ -8,7 +8,7 @@ Be sure to include the name of the rom you are reporting an issue for.
 
 # Sofiar Trees
 **Device Tree:**  
-[device_motorola_sofiar](https://github.com/ph4n70m-404/device_motorola_sofiar)  
+[device_motorola_sofiar](https://github.com/ph4n70m-404/device_motorola_sofiar-1)  
 **Vendor Tree:**  
 [vendor_motorola_sofiar](https://github.com/ph4n70m-404/vendor_motorola_sofiar)  
 **Samuel's Kernel:**  
